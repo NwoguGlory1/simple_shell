@@ -1,0 +1,15 @@
+.TH HSH 1 "April 2017" "1.0" "Simple shell page"
+.SH NAME
+simple_shell - A simple UNIX shell.
+.SH SYNOPSIS
+simple_shell [options] [command_string | file]
+.SH DESCRIPTION
+Simple Shell is a simple UNIX-based shell that mimics bash.
+.SH OPTIONS
+No options so far.
+.SH SEE ALSO
+bash(1)
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Daniel Alzugaray (dalzuga@gmail.com)
